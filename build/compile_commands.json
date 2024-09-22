@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/mrdeun/Workspace/C++/RayTracer/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/RayTracer.dir/src/main.cpp.o -c /home/mrdeun/Workspace/C++/RayTracer/src/main.cpp",
+  "file": "/home/mrdeun/Workspace/C++/RayTracer/src/main.cpp",
+  "output": "CMakeFiles/RayTracer.dir/src/main.cpp.o"
+}
+]
