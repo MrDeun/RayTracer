@@ -1,8 +1,26 @@
 [
 {
-  "directory": "/home/mrdeun/Workspace/C++/RayTracer/build",
-  "command": "/usr/bin/c++   -g -o CMakeFiles/RayTracer.dir/src/main.cpp.o -c /home/mrdeun/Workspace/C++/RayTracer/src/main.cpp",
-  "file": "/home/mrdeun/Workspace/C++/RayTracer/src/main.cpp",
-  "output": "CMakeFiles/RayTracer.dir/src/main.cpp.o"
+  "directory": "E:/Workspace/C++/RayTracer/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\RayTracer.dir\\src\\main.cpp.obj -c E:\\Workspace\\C++\\RayTracer\\src\\main.cpp",
+  "file": "E:/Workspace/C++/RayTracer/src/main.cpp",
+  "output": "CMakeFiles/RayTracer.dir/src/main.cpp.obj"
+},
+{
+  "directory": "E:/Workspace/C++/RayTracer/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\RayTracer.dir\\src\\vec3.cpp.obj -c E:\\Workspace\\C++\\RayTracer\\src\\vec3.cpp",
+  "file": "E:/Workspace/C++/RayTracer/src/vec3.cpp",
+  "output": "CMakeFiles/RayTracer.dir/src/vec3.cpp.obj"
+},
+{
+  "directory": "E:/Workspace/C++/RayTracer/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\RayTracer.dir\\src\\ray.cpp.obj -c E:\\Workspace\\C++\\RayTracer\\src\\ray.cpp",
+  "file": "E:/Workspace/C++/RayTracer/src/ray.cpp",
+  "output": "CMakeFiles/RayTracer.dir/src/ray.cpp.obj"
+},
+{
+  "directory": "E:/Workspace/C++/RayTracer/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\RayTracer.dir\\src\\color.cpp.obj -c E:\\Workspace\\C++\\RayTracer\\src\\color.cpp",
+  "file": "E:/Workspace/C++/RayTracer/src/color.cpp",
+  "output": "CMakeFiles/RayTracer.dir/src/color.cpp.obj"
 }
 ]
